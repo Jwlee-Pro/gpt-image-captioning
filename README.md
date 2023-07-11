@@ -3,6 +3,17 @@ gpt-image-captioning
 
 Yolov5 + GPT-2/3/4
 
+Steps to Automated Image Captioning
+Reference: "https://ai.plainenglish.io/crafting-an-intelligent-image-captioning-system-a-step-by-step-guide-to-yolov5-and-gpt-2-58abe8a790c2"
+1. Setting up the environment and dependencies
+2. Preparing the dataset
+3. Training the YOLOv5 object detection model
+4. Fine-tuning the Transformer model for caption generation
+5. Integrating the object detection and language models
+6. Evaluating the generated captions
+7. Testing the system
+
+
 Project Organization
 ------------
 
